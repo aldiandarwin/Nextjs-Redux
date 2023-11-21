@@ -6,6 +6,8 @@ This project serves as a study case for practicing state management techniques, 
 
 The primary goal is to explore efficient ways of handling state in a complex application and mitigating issues like props drilling.
 
+![flow-mockup.png](https://github.com/aldiandarwin/Nextjs-Redux/assets/70283015/a3014572-1dc9-4d40-a606-a0992c61249d)
+
 ## Technologies Used
 
 -   [Next.js](https://nextjs.org/): A React framework for building server-side rendered and statically generated web applications.
