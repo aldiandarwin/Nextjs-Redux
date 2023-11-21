@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* Set background gradient style to black and blue */
+    background: linear-gradient(to right, #3490dc, #38b2ac);
+
+    /* Ensure text has sufficient contrast with the background */
+    color: #ffffff;
+    /* Set text color to white for better contrast */
+
+    /* Set the font to Jakarta Sans */
+    font-family: 'Jakarta Sans', sans-serif;
+
+    /* Set a responsive max-width */
+    max-width: 100%;
+    /* This ensures the content doesn't overflow the viewport */
+    margin: 0 auto;
+    /* Center the content horizontally */
+
+    /* Add any other global styles as needed */
+}
